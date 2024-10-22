@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\interfacetask\interfacetask\bin\Debug\net8.0\interfacetask.exe
+C:\Users\Asus\source\repos\interfacetask\interfacetask\bin\Debug\net8.0\interfacetask.deps.json
+C:\Users\Asus\source\repos\interfacetask\interfacetask\bin\Debug\net8.0\interfacetask.runtimeconfig.json
+C:\Users\Asus\source\repos\interfacetask\interfacetask\bin\Debug\net8.0\interfacetask.dll
+C:\Users\Asus\source\repos\interfacetask\interfacetask\bin\Debug\net8.0\interfacetask.pdb
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.AssemblyInfo.cs
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.dll
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\refint\interfacetask.dll
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.pdb
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\interfacetask.genruntimeconfig.cache
+C:\Users\Asus\source\repos\interfacetask\interfacetask\obj\Debug\net8.0\ref\interfacetask.dll
